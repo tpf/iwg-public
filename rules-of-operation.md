@@ -2,9 +2,10 @@
 
 ## Rules of Operation
 
-1. The IWG will meet via teleconference at least quarterly.  An agenda will be
-   distributed one week in advance.  Other business will be conducted on an ad
-   hoc basis.
+1. The IWG will from time to time review its internal goals, proccessess, and
+   effectiveness.  These meetings are likely to occur several times a year.  An
+   agenda will be distributed one week in advance.  Other business will be
+   conducted on an ad hoc basis.
 
 2. The IWG has a private channel (#infrastructure) on the Perl Foundation
    Slack, which is used for realtime discussion of work in progress, such as
