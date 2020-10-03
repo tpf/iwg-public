@@ -59,8 +59,8 @@ the IWG decides what to host:
 
 ## When Things Break
 
-The IWG will establish internal procedures for dealing with things like "such
-and such service has crashed and needs a reboot."
+The IWG will establish internal procedures for dealing with routine monitoring
+and incident response.
 
 The larger question is what happens when a service's custom code is broken by
 changes to the standard deployment environment.  If the IWG is unable to make
