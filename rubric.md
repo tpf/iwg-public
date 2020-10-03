@@ -29,8 +29,10 @@ The IWG expressly *does not* do the following:
 
 There are two categories of system run by IWG:
 
-1. **TPF services**: those being used for the direct benefit of TPF
-2. **community services**: those being used for the benefit of the Perl and Raku communities
+1. **TPF services**: those being used for the direct benefit of TPF; for
+   example: its mail hosting, web hosting, and GitHub organization
+2. **community services**: those being used for the benefit of the Perl and
+   Raku communities
 
 ## Enrollment of TPF Services
 
