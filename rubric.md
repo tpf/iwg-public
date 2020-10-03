@@ -1,15 +1,15 @@
-# So you want the IWG to run a service…
+# So you want the IWG to host a service…
 
 ⚠️  This document is maintained by the IWG and is likely to change as we learn
 from the process of actually carrying out our mandate.
 
-## What does "run a service" mean?
+## What does "host a service" mean?
 
-The IWG has a few roles in running services:
+The IWG has a few roles in hosting services:
 
 1. It holds administrative keys and delegates access to the current active
    admins, if needed.
-2. It keeps services running, monitors availability, performs security updates,
+2. It keeps services hosting, monitors availability, performs security updates,
    and does other "keep the lights on" tasks.
 3. It identifies breakages caused by upstream changes and attempts to have them
    fixed.  The IWG does not perform development tasks (like rewriting custom
@@ -25,9 +25,9 @@ The IWG expressly *does not* do the following:
 3. fix non-trivial bugs
 4. write documentation for users
 
-## What kind of services does IWG run?
+## What kind of services does IWG host?
 
-There are two categories of system run by IWG:
+There are two categories of system maintained by IWG:
 
 1. **TPF services**: those being used for the direct benefit of TPF; for
    example: its mail hosting, web hosting, and GitHub organization
