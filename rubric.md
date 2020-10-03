@@ -34,14 +34,14 @@ There are two categories of system run by IWG:
 
 ## Enrollment of TPF Services
 
-IWG administrates all TPF unless there is a compelling reason for other
-accomodations.
+IWG administrates all TPF services unless there is a compelling reason for
+other accomodations.
 
 ## Enrollment of Community Services
 
-Before any service can be hosted by the IWG, its current maintainer and the IWG
-must agree to this arrangement.  Here are a number of guidelines about how the
-IWG decides what to host:
+Before any service can be hosted by the IWG, its current maintainer(s) and the
+IWG must agree to this arrangement.  Here are a number of guidelines about how
+the IWG decides what to host:
 
 * Services must have a significant ongoing value to the community.
 * Services must have a minimum level of reliability (or, alternatively,
@@ -51,7 +51,7 @@ IWG decides what to host:
   such and such OS and are comfortable with managing the following services.")
   Deviation from the official platform is treated as a hassle and judged
   accordingly.
-* Services must be hosted at domain controlled by the IWG.
+* Services must be hosted at a domain controlled by the IWG.
 * Custom code must be hosted at GitHub, in an organization administrated by
   IWG.
 
